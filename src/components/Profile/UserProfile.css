@@ -1,0 +1,25 @@
+.user-profile {
+    width: 60%;
+    margin: auto;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .user-info, .favorite-products {
+    margin-top: 20px;
+  }
+  
+  .favorite-products ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .favorite-products li {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+  }
+  
